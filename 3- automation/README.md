@@ -19,7 +19,7 @@
 
 Outra maneira de executar os testes é executando a automação via terminal
 
-- É simples, acesse o terminal (estando na pagina '3- automation') e execute o seguinte comando "npm run test"
+- É simples, acesse o terminal (estando na pasta '3- automation') e execute o seguinte comando "npm run test"
 
 ## Arquitetura
 
