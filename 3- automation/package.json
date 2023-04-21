@@ -1,0 +1,14 @@
+{
+  "name": "3--automation",
+  "version": "1.0.0",
+  "description": "automação de teste para o desafio da empresa eNe Soluções",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Abner",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.10.0"
+  }
+}
